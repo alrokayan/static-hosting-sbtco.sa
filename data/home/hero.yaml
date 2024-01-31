@@ -1,5 +1,5 @@
 enabled: true
-id: "hero"
+id: "banner"
 
 content:
   title: "How to **level up** your buildings"
@@ -7,9 +7,9 @@ content:
 
   buttonPrimary:
     label: "How we work"
-    url: "#"
+    url: "/how-we-work"
 
   buttonSecondary:
     label: "Let's talk"
-    url: ""
+    url: "/contact-us"
 

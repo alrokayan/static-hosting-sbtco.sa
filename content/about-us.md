@@ -2,7 +2,7 @@
 title = "About"
 description = "SBTCO is a Saudi company specilizes in smart building technologies"
 date = "2024-01-30"
-aliases = ["about-us", "about-sbtco", "contact"]
+aliases = ["about", "about-sbtco"]
 author = "SBTCO Team"
 +++
 
