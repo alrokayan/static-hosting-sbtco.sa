@@ -1,0 +1,11 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "We work with several smart home and buildings brands "
+  items:
+    - "images/brands-amazon.png"
+    - "images/brands-google.png"
+    - "images/brands-apple.png"
+    - "images/brands-xiami.png"
+    - "images/brands-eufy.png"
