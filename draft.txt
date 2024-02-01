@@ -1,51 +1,36 @@
-SBTCo.
+Company Name: Smart Building Technology Co. (SBTCo.)
+
+
+Website: sbtco.sa
+
 
 About us:
-
 We are a Saudi smart building technologies (homes, workplaces, resorts, ...etc) experts provide smart solutions with end-to-end technologies and services (e.g. WiFi planning and installation) that fully integrates with smart devices and significantly improves the residents/guests/workers living/working experience
 
-Go-to-market approach:
 
+Go-to-market approach:
 We are positioning ourselves as brand-/provider-agnostic "consultants" targeting real estate development/construction companies working on residential complex (so we make money from consulting not from devices sales).
 
-Persona:
 
+Marketing Persona:
 The owner of a project (e.g. Mohamed Alabbar, the owner/founder of Emaar).
 
-So the brand "SBTCO" has to show the official and luxurious impression and the long established market share even though we are a startup.
 
 Value Proposition: 
+We integrate with your modern design using a future-proof Smart Building Technology.
 
-We integrate with your modern design using a future-proof [Smart Building Technologies].
 
-Unique selling propositions (USP): 
+Unique selling propositions (USPs): 
+1- minimal overhead cost
+2- end-to-end natively integrated system (no apps to be downloaded) with Apple/Google/Amazon ecosystem, automation, and off-the-shelf smart devices
+3- full protection & security of all residents/guests/workers data & devices (includes smart and non-smart devices) within the smart building
+4- internet-independet
 
-1️⃣
-
-minimal overhead cost
-
-2️⃣
-
-end-to-end natively integrated system (no apps to be downloaded) with Apple/Google/Amazon ecosystem, automation, and off-the-shelf smart devices
-
-3️⃣
-
-full protection & security of all residents/guests/workers data & devices (includes smart and non-smart devices) within the smart building
-
-4️⃣
-
-internet-independent
 
 Why us?
-
 Because we are a team of passionate qualified experts in [Smart Building Technologies] looking for the next big thing.
 
-Values:
 
-1️⃣
-
-PASSION, QUALIFICATION, and EXPERIENCE are the core pillars of overachievers 
-
-2️⃣
-
-Data exclusively owned by their users 
+Team Values (what we believe in):
+1- PASSION, QUALIFICATION, and EXPERIENCE are the core pillars of overachievers 
+2- Data exclusively owned by their users 
