@@ -40,7 +40,7 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "About Us"
+    - name: "About us"
       url: "/about-us"
       weight: 2
 
@@ -48,8 +48,8 @@ menus:
       url: "/how-we-work"
       weight: 3
 
-    - name: "Contact us"
-      url: "/contact-us"
+    - name: "Contact the team"
+      url: "/contact-the-team"
       weight: 4
 
   buttons:
