@@ -53,7 +53,7 @@ menus:
       weight: 4
 
   buttons:
-    - name: "CONTACT US"
+    - name: "CONTACT THE TEAM"
       url: "/contact-us"
       weight: 5
       pre: "btn btn-primary text-light"
